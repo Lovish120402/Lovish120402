@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Lovish120402
-- 👀 I’m interested in penetration tester
+- 👀 I’m interested in security analyst
 - 🌱 I’m currently learning cybersecurity 
-- 💞️ I’m looking to collaborate on red hats team
+- 💞️ I’m looking to collaborate on new tools for defense
 - 📫 How to reach me email
-- 😄 Pronouns: male ofc
+- 😄 Pronouns: male
 - ⚡ Fun fact: manchester is red 
 
 <!---
